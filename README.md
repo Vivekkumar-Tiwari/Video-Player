@@ -1,2 +1,5 @@
-# Video-Player
-This is my college tech expo project, and I will build this app with my team.
+## Video-PlayerPreview of my tech expo prohect
+![MacBook Air - 24](https://github.com/user-attachments/assets/fdb0d735-c21c-4ae8-89fa-4bb03a17227e)
+
+
+
